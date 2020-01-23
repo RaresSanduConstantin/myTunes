@@ -1,0 +1,24 @@
+{
+  "name": "myTunes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d mytunes"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaresSanduConstantin/myTunes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "hompage": "https://github.com/RaresSanduConstantin.github.io/myTunes",
+  "bugs": {
+    "url": "https://github.com/RaresSanduConstantin/myTunes/issues"
+  },
+  "homepage": "https://github.com/RaresSanduConstantin/myTunes#readme",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
